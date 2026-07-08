@@ -2,7 +2,7 @@
 
 Loaded the output of a WordCount MapReduce job into a Hive external table and queried it with SQL, to contrast writing SQL against hand-written Java MapReduce.
 
-Builds on the [hadoop-wordcount]([../hadoop-wordcount](https://github.com/wilkinsjohnstanley/hadoop-wordcount)) project — this uses the same Hadoop container and the WordCount output already sitting in HDFS.
+Builds on the [hadoop-wordcount](https://github.com/wilkinsjohnstanley/hadoop-wordcount)project — this uses the same Hadoop container and the WordCount output already sitting in HDFS.
 
 ## Setup
 
